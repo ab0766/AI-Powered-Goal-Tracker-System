@@ -1,4 +1,4 @@
-# 🎯 SprintMap AI: The 30-Day Automated Goal Architect
+# 🎯 SprintMap AI: AI-Powered Custom Goal Tracking System Architect
 
 SprintMap AI is a production-ready, full-stack productivity tool that shifts away from typical manual micro-management tracking applications. Built using a decoupling architecture, it blends a high-performance **FastAPI asynchronous backend** with an interactive **Streamlit frontend engine** to break down massive monthly ambitions into day-by-day micro-milestones using **Google Gemini AI**.
 
